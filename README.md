@@ -35,6 +35,8 @@ To run the tutorial notebook, follow these steps:
 - Jupyter Notebook
 - Pandas
 - NumPy
+- Matplolib
+- Seaborn
 
 ## License
 
